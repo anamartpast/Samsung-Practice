@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <Aldi>
+    <direction>Avenida de las Rosas, 5</direction>
+    <coordinates>36.60784479557874, -4.5098488743714205</coordinates>
+    <distanceFromHome>0.7 km</distanceFromHome>
+    <phone>98989898</phone>
+    <products>
+      <freshProducts>
+        <product>banana</product>
+        <brand>El Canario</brand>
+        <description>Comprar al menos 5 unidades si no están muy verdes.</description>
+        <container>granel</container>
+        <regularPrice>1.95/kg</regularPrice>
+        <offer>
+          <isActivated>true</isActivated>
+          <offerPrice>1.78/kg</offerPrice>
+        </offer>
+        <markAsBought>true</markAsBought>
+      </freshProducts>
+      <freshProducts>
+        <product>apple</product>
+        <brand>Huerto Almansa</brand>
+        <description>Comprar de la variedad Pink Lady.</description>
+        <container>granel</container>
+        <regularPrice>1.85/kg</regularPrice>
+        <offer>
+          <isActivated>false</isActivated>
+          <offerPrice/>
+        </offer>
+        <markAsBought>false</markAsBought>
+      </freshProducts>
+      <freshProducts>
+        <product>orange</product>
+        <brand>ATD Fruits</brand>
+        <description>Si hay especiales para hacer zumo, comprar esas.</description>
+        <container>granel</container>
+        <regularPrice>2.35/kg</regularPrice>
+        <offer>
+          <isActivated>true</isActivated>
+          <offerPrice>2.24/kg</offerPrice>
+        </offer>
+        <markAsBought>true</markAsBought>
+      </freshProducts>
+      <freshProducts>
+        <product>cream cheese</product>
+        <brand>Philadelphia</brand>
+        <description>Comprar el formato familiar.</description>
+        <container>tarro</container>
+        <regularPrice>3.02/unidad</regularPrice>
+        <offer>
+          <isActivated>true</isActivated>
+          <offerPrice>2.84/unidad</offerPrice>
+        </offer>
+        <markAsBought>true</markAsBought>
+      </freshProducts>
+      <drinks>
+        <product>agua</product>
+        <brand>Font Bella</brand>
+        <description>Al menos 6 botellas</description>
+        <container>botella</container>
+        <regularPrice>0.65/botella</regularPrice>
+        <offer>
+          <isActivated>true</isActivated>
+          <offerPrice>0.58/botella</offerPrice>
+        </offer>
+        <markAsBought>true</markAsBought>
+      </drinks>
+      <drinks>
+        <product>Coca cola</product>
+        <brand>The Coca Cola Company</brand>
+        <description>2 botellas</description>
+        <container>botella</container>
+        <regularPrice>0.95/botella</regularPrice>
+        <offer>
+          <isActivated>true</isActivated>
+          <offerPrice>0.90/botella</offerPrice>
+        </offer>
+        <markAsBought>false</markAsBought>
+      </drinks>
+      <drinks>
+        <product>orange juice</product>
+        <brand>Natural Fruits</brand>
+        <description>Al menos 2 envases</description>
+        <container>botella</container>
+        <regularPrice>1.35/botella</regularPrice>
+        <offer>
+          <isActivated>true</isActivated>
+          <offerPrice>1.24/botella</offerPrice>
+        </offer>
+        <markAsBought>true</markAsBought>
+      </drinks>
+      <hygiene>
+        <product>gel manos</product>
+        <brand>Dove</brand>
+        <description>Repuesto</description>
+        <container>envase</container>
+        <regularPrice>1.65/envase</regularPrice>
+        <offer>
+          <isActivated>false</isActivated>
+          <offerPrice/>
+        </offer>
+        <markAsBought>true</markAsBought>
+      </hygiene>
+      <hygiene>
+        <product>esponja</product>
+        <brand>Burbujitas</brand>
+        <description>Comprar 2 de distintos colores</description>
+        <container>envase</container>
+        <regularPrice>0.95/unidad</regularPrice>
+        <offer>
+          <isActivated>true</isActivated>
+          <offerPrice>0.90/unidad</offerPrice>
+        </offer>
+        <markAsBought>true</markAsBought>
+      </hygiene>
+    </products>
+  </Aldi>
+  <Carrefour>
+    <direction>Avenida de la Libertad, 25</direction>
+    <coordinates>26.60784479557874, -2.00000714205</coordinates>
+    <distanceFromHome>0.5 km</distanceFromHome>
+    <phone>911111111</phone>
+    <products>
+      <freshProducts>
+        <product>banana</product>
+        <brand>France Fruits</brand>
+        <description>Comprar solo si no quedan en Aldi.</description>
+        <container>granel</container>
+        <regularPrice>2.05/kg</regularPrice>
+        <offer>
+          <isActivated>true</isActivated>
+          <offerPrice>1.88/kg</offerPrice>
+        </offer>
+        <markAsBought>false</markAsBought>
+      </freshProducts>
+      <freshProducts>
+        <product>apple</product>
+        <brand>Huerto Almansa</brand>
+        <description>Comprar de la variedad Pink Lady.</description>
+        <container>granel</container>
+        <regularPrice>1.85/kg</regularPrice>
+        <offer>
+          <isActivated>false</isActivated>
+          <offerPrice/>
+        </offer>
+        <markAsBought>false</markAsBought>
+      </freshProducts>
+      <freshProducts>
+        <product>orange</product>
+        <brand>ATD Fruits</brand>
+        <description>Si hay naranjas especiales para hacer zumo, comprar esas.</description>
+        <container>granel</container>
+        <regularPrice>2.35/kg</regularPrice>
+        <offer>
+          <isActivated>true</isActivated>
+          <offerPrice>2.24/kg</offerPrice>
+        </offer>
+        <markAsBought>true</markAsBought>
+      </freshProducts>
+      <freshProducts>
+        <product>cream cheese</product>
+        <brand>Philadelphia</brand>
+        <description>Comprar el formato familiar.</description>
+        <container>tarro</container>
+        <regularPrice>3.02/unidad</regularPrice>
+        <offer>
+          <isActivated>true</isActivated>
+          <offerPrice>2.84/unidad</offerPrice>
+        </offer>
+        <markAsBought>true</markAsBought>
+      </freshProducts>
+      <drinks>
+        <product>agua</product>
+        <brand>Font Bella</brand>
+        <description>Al menos 6 botellas</description>
+        <container>botella</container>
+        <regularPrice>0.65/botella</regularPrice>
+        <offer>
+          <isActivated>true</isActivated>
+          <offerPrice>0.58/botella</offerPrice>
+        </offer>
+        <markAsBought>true</markAsBought>
+      </drinks>
+      <drinks>
+        <product>Coca cola</product>
+        <brand>The Coca Cola Company</brand>
+        <description>2 botellas</description>
+        <container>botella</container>
+        <regularPrice>0.95/botella</regularPrice>
+        <offer>
+          <isActivated>true</isActivated>
+          <offerPrice>0.90/botella</offerPrice>
+        </offer>
+        <markAsBought>false</markAsBought>
+      </drinks>
+      <drinks>
+        <product>orange juice</product>
+        <brand>Natural Fruits</brand>
+        <description>Al menos 2 envases</description>
+        <container>botella</container>
+        <regularPrice>1.35/botella</regularPrice>
+        <offer>
+          <isActivated>true</isActivated>
+          <offerPrice>1.24/botella</offerPrice>
+        </offer>
+        <markAsBought>true</markAsBought>
+      </drinks>
+      <hygiene>
+        <product>gel manos</product>
+        <brand>Dove</brand>
+        <description>Repuesto</description>
+        <container>envase</container>
+        <regularPrice>1.65/envase</regularPrice>
+        <offer>
+          <isActivated>false</isActivated>
+          <offerPrice/>
+        </offer>
+        <markAsBought>true</markAsBought>
+      </hygiene>
+      <hygiene>
+        <product>esponja</product>
+        <brand>Burbujitas</brand>
+        <description>Comprar 2 de distintos colores</description>
+        <container>envase</container>
+        <regularPrice>0.95/unidad</regularPrice>
+        <offer>
+          <isActivated>true</isActivated>
+          <offerPrice>0.90/unidad</offerPrice>
+        </offer>
+        <markAsBought>true</markAsBought>
+      </hygiene>
+    </products>
+  </Carrefour>
+  <Dia>
+    <direction>Calle Miguel de Unamuno, 23</direction>
+    <coordinates>22.3454534534, 4.89888998</coordinates>
+    <distanceFromHome>0.25 km</distanceFromHome>
+    <phone>900000000</phone>
+    <products>
+      <freshProducts>
+        <product>tuna</product>
+        <brand>El Pescadito</brand>
+        <description>Comprar para congelar.</description>
+        <container>al peso</container>
+        <regularPrice>6.95/kg</regularPrice>
+        <offer>
+          <isActivated>true</isActivated>
+          <offerPrice>5.99/kg</offerPrice>
+        </offer>
+        <markAsBought>true</markAsBought>
+      </freshProducts>
+      <freshProducts>
+        <product>apple</product>
+        <brand>Frutas Ramirez</brand>
+        <description>Comprar para toda la semana.</description>
+        <container>granel</container>
+        <regularPrice>1.56/kg</regularPrice>
+        <offer>
+          <isActivated>false</isActivated>
+          <offerPrice/>
+        </offer>
+        <markAsBought>false</markAsBought>
+      </freshProducts>
+      <freshProducts>
+        <product>orange</product>
+        <brand>Huerto San Miguel</brand>
+        <description>Si hay especiales para hacer zumo, comprar esas.</description>
+        <container>granel</container>
+        <regularPrice>2.25/kg</regularPrice>
+        <offer>
+          <isActivated>true</isActivated>
+          <offerPrice>2.20/kg</offerPrice>
+        </offer>
+        <markAsBought>false</markAsBought>
+      </freshProducts>
+      <drinks>
+        <product>Nestea</product>
+        <brand>Nestea</brand>
+        <description>Al menos 6 latas</description>
+        <container>latas</container>
+        <regularPrice>0.55/lata</regularPrice>
+        <offer>
+          <isActivated>true</isActivated>
+          <offerPrice>0.50/lata en pack</offerPrice>
+        </offer>
+        <markAsBought>true</markAsBought>
+      </drinks>
+      <drinks>
+        <product>Coca cola</product>
+        <brand>The Coca Cola Company</brand>
+        <description>Más barato que en otros supermercados</description>
+        <container>botella</container>
+        <regularPrice>0.91/botella</regularPrice>
+        <offer>
+          <isActivated>true</isActivated>
+          <offerPrice>0.89/botella</offerPrice>
+        </offer>
+        <markAsBought>false</markAsBought>
+      </drinks>
+      <drinks>
+        <product>orange juice</product>
+        <brand>Natural Fruits</brand>
+        <description>Al menos 2 envases</description>
+        <container>botella</container>
+        <regularPrice>1.32/botella</regularPrice>
+        <offer>
+          <isActivated>true</isActivated>
+          <offerPrice>1.22/botella</offerPrice>
+        </offer>
+        <markAsBought>true</markAsBought>
+      </drinks>
+      <hygiene>
+        <product>cepillo dientes</product>
+        <brand>Dia</brand>
+        <description>Comprar varios</description>
+        <container>envase</container>
+        <regularPrice>1.75/envase</regularPrice>
+        <offer>
+          <isActivated>false</isActivated>
+          <offerPrice/>
+        </offer>
+        <markAsBought>true</markAsBought>
+      </hygiene>
+      <hygiene>
+        <product>papel cocina</product>
+        <brand>Bosque Verde</brand>
+        <description>Comprar 2 rollos</description>
+        <container>envase</container>
+        <regularPrice>0.99/unidad</regularPrice>
+        <offer>
+          <isActivated>true</isActivated>
+          <offerPrice>0.97/unidad</offerPrice>
+        </offer>
+        <markAsBought>true</markAsBought>
+      </hygiene>
+    </products>
+  </Dia>
+</root>

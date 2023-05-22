@@ -1,0 +1,368 @@
+{
+    "Aldi": [
+        {
+            "direction": "Avenida de las Rosas, 5",
+            "coordinates": "36.60784479557874, -4.5098488743714205",
+            "distanceFromHome": "0.7 km",
+            "phone": 98989898,
+            "products": [
+                {
+                    "freshProducts": [
+                        {
+                            "product": "banana",
+                            "brand": "El Canario",
+                            "description": "Comprar al menos 5 unidades si no están muy verdes.",
+                            "container": "granel",
+                            "regularPrice": "1.95/kg",
+                            "offer": {
+                                "isActivated": true,
+                                "offerPrice": "1.78/kg"
+                            },
+                            "markAsBought": "true"
+                        },
+                        {
+                            "product": "apple",
+                            "brand": "Huerto Almansa",
+                            "description": "Comprar de la variedad Pink Lady.",
+                            "container": "granel",
+                            "regularPrice": "1.85/kg",
+                            "offer": {
+                                "isActivated": false,
+                                "offerPrice": null
+                            },
+                            "markAsBought": "false"
+                        },
+                        {
+                            "product": "orange",
+                            "brand": "ATD Fruits",
+                            "description": "Si hay especiales para hacer zumo, comprar esas.",
+                            "container": "granel",
+                            "regularPrice": "2.35/kg",
+                            "offer": {
+                                "isActivated": true,
+                                "offerPrice": "2.24/kg"
+                            },
+                            "markAsBought": "true"
+                        },
+                        {
+                            "product": "cream cheese",
+                            "brand": "Philadelphia",
+                            "description": "Comprar el formato familiar.",
+                            "container": "tarro",
+                            "regularPrice": "3.02/unidad",
+                            "offer": {
+                                "isActivated": true,
+                                "offerPrice": "2.84/unidad"
+                            },
+                            "markAsBought": "true"
+                        }
+                    ],
+                    "drinks": [
+                        {
+                            "product": "agua",
+                            "brand": "Font Bella",
+                            "description": "Al menos 6 botellas",
+                            "container": "botella",
+                            "regularPrice": "0.65/botella",
+                            "offer": {
+                                "isActivated": true,
+                                "offerPrice": "0.58/botella"
+                            },
+                            "markAsBought": "true"
+                        },
+                        {
+                            "product": "Coca cola",
+                            "brand": "The Coca Cola Company",
+                            "description": "2 botellas",
+                            "container": "botella",
+                            "regularPrice": "0.95/botella",
+                            "offer": {
+                                "isActivated": true,
+                                "offerPrice": "0.90/botella"
+                            },
+                            "markAsBought": "false"
+                        },
+                        {
+                            "product": "orange juice",
+                            "brand": "Natural Fruits",
+                            "description": "Al menos 2 envases",
+                            "container": "botella",
+                            "regularPrice": "1.35/botella",
+                            "offer": {
+                                "isActivated": true,
+                                "offerPrice": "1.24/botella"
+                            },
+                            "markAsBought": "true"
+                        }
+                    ],
+                    "hygiene": [
+                        {
+                            "product": "gel manos",
+                            "brand": "Dove",
+                            "description": "Repuesto",
+                            "container": "envase",
+                            "regularPrice": "1.65/envase",
+                            "offer": {
+                                "isActivated": false,
+                                "offerPrice": null
+                            },
+                            "markAsBought": "true"
+                        },
+                        {
+                            "product": "esponja",
+                            "brand": "Burbujitas",
+                            "description": "Comprar 2 de distintos colores",
+                            "container": "envase",
+                            "regularPrice": "0.95/unidad",
+                            "offer": {
+                                "isActivated": true,
+                                "offerPrice": "0.90/unidad"
+                            },
+                            "markAsBought": "true"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Carrefour": [
+        {
+            "direction": "Avenida de la Libertad, 25",
+            "coordinates": "26.60784479557874, -2.00000714205",
+            "distanceFromHome": "0.5 km",
+            "phone": 911111111,
+            "products": [
+                {
+                    "freshProducts": [
+                        {
+                            "product": "banana",
+                            "brand": "France Fruits",
+                            "description": "Comprar solo si no quedan en Aldi.",
+                            "container": "granel",
+                            "regularPrice": "2.05/kg",
+                            "offer": {
+                                "isActivated": true,
+                                "offerPrice": "1.88/kg"
+                            },
+                            "markAsBought": "false"
+                        },
+                        {
+                            "product": "apple",
+                            "brand": "Huerto Almansa",
+                            "description": "Comprar de la variedad Pink Lady.",
+                            "container": "granel",
+                            "regularPrice": "1.85/kg",
+                            "offer": {
+                                "isActivated": false,
+                                "offerPrice": null
+                            },
+                            "markAsBought": "false"
+                        },
+                        {
+                            "product": "orange",
+                            "brand": "ATD Fruits",
+                            "description": "Si hay naranjas especiales para hacer zumo, comprar esas.",
+                            "container": "granel",
+                            "regularPrice": "2.35/kg",
+                            "offer": {
+                                "isActivated": true,
+                                "offerPrice": "2.24/kg"
+                            },
+                            "markAsBought": "true"
+                        },
+                        {
+                            "product": "cream cheese",
+                            "brand": "Philadelphia",
+                            "description": "Comprar el formato familiar.",
+                            "container": "tarro",
+                            "regularPrice": "3.02/unidad",
+                            "offer": {
+                                "isActivated": true,
+                                "offerPrice": "2.84/unidad"
+                            },
+                            "markAsBought": "true"
+                        }
+                    ],
+                    "drinks": [
+                        {
+                            "product": "agua",
+                            "brand": "Font Bella",
+                            "description": "Al menos 6 botellas",
+                            "container": "botella",
+                            "regularPrice": "0.65/botella",
+                            "offer": {
+                                "isActivated": true,
+                                "offerPrice": "0.58/botella"
+                            },
+                            "markAsBought": "true"
+                        },
+                        {
+                            "product": "Coca cola",
+                            "brand": "The Coca Cola Company",
+                            "description": "2 botellas",
+                            "container": "botella",
+                            "regularPrice": "0.95/botella",
+                            "offer": {
+                                "isActivated": true,
+                                "offerPrice": "0.90/botella"
+                            },
+                            "markAsBought": "false"
+                        },
+                        {
+                            "product": "orange juice",
+                            "brand": "Natural Fruits",
+                            "description": "Al menos 2 envases",
+                            "container": "botella",
+                            "regularPrice": "1.35/botella",
+                            "offer": {
+                                "isActivated": true,
+                                "offerPrice": "1.24/botella"
+                            },
+                            "markAsBought": "true"
+                        }
+                    ],
+                    "hygiene": [
+                        {
+                            "product": "gel manos",
+                            "brand": "Dove",
+                            "description": "Repuesto",
+                            "container": "envase",
+                            "regularPrice": "1.65/envase",
+                            "offer": {
+                                "isActivated": false,
+                                "offerPrice": null
+                            },
+                            "markAsBought": "true"
+                        },
+                        {
+                            "product": "esponja",
+                            "brand": "Burbujitas",
+                            "description": "Comprar 2 de distintos colores",
+                            "container": "envase",
+                            "regularPrice": "0.95/unidad",
+                            "offer": {
+                                "isActivated": true,
+                                "offerPrice": "0.90/unidad"
+                            },
+                            "markAsBought": "true"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "Dia": [
+        {
+            "direction": "Calle Miguel de Unamuno, 23",
+            "coordinates": "22.3454534534, 4.89888998",
+            "distanceFromHome": "0.25 km",
+            "phone": 900000000,
+            "products": [
+                {
+                    "freshProducts": [
+                        {
+                            "product": "tuna",
+                            "brand": "El Pescadito",
+                            "description": "Comprar para congelar.",
+                            "container": "al peso",
+                            "regularPrice": "6.95/kg",
+                            "offer": {
+                                "isActivated": true,
+                                "offerPrice": "5.99/kg"
+                            },
+                            "markAsBought": "true"
+                        },
+                        {
+                            "product": "apple",
+                            "brand": "Frutas Ramirez",
+                            "description": "Comprar para toda la semana.",
+                            "container": "granel",
+                            "regularPrice": "1.56/kg",
+                            "offer": {
+                                "isActivated": false,
+                                "offerPrice": null
+                            },
+                            "markAsBought": "false"
+                        },
+                        {
+                            "product": "orange",
+                            "brand": "Huerto San Miguel",
+                            "description": "Si hay especiales para hacer zumo, comprar esas.",
+                            "container": "granel",
+                            "regularPrice": "2.25/kg",
+                            "offer": {
+                                "isActivated": true,
+                                "offerPrice": "2.20/kg"
+                            },
+                            "markAsBought": "false"
+                        }
+                    ],
+                    "drinks": [
+                        {
+                            "product": "Nestea",
+                            "brand": "Nestea",
+                            "description": "Al menos 6 latas",
+                            "container": "latas",
+                            "regularPrice": "0.55/lata",
+                            "offer": {
+                                "isActivated": true,
+                                "offerPrice": "0.50/lata en pack"
+                            },
+                            "markAsBought": "true"
+                        },
+                        {
+                            "product": "Coca cola",
+                            "brand": "The Coca Cola Company",
+                            "description": "Más barato que en otros supermercados",
+                            "container": "botella",
+                            "regularPrice": "0.91/botella",
+                            "offer": {
+                                "isActivated": true,
+                                "offerPrice": "0.89/botella"
+                            },
+                            "markAsBought": "false"
+                        },
+                        {
+                            "product": "orange juice",
+                            "brand": "Natural Fruits",
+                            "description": "Al menos 2 envases",
+                            "container": "botella",
+                            "regularPrice": "1.32/botella",
+                            "offer": {
+                                "isActivated": true,
+                                "offerPrice": "1.22/botella"
+                            },
+                            "markAsBought": "true"
+                        }
+                    ],
+                    "hygiene": [
+                        {
+                            "product": "cepillo dientes",
+                            "brand": "Dia",
+                            "description": "Comprar varios",
+                            "container": "envase",
+                            "regularPrice": "1.75/envase",
+                            "offer": {
+                                "isActivated": false,
+                                "offerPrice": null
+                            },
+                            "markAsBought": "true"
+                        },
+                        {
+                            "product": "papel cocina",
+                            "brand": "Bosque Verde",
+                            "description": "Comprar 2 rollos",
+                            "container": "envase",
+                            "regularPrice": "0.99/unidad",
+                            "offer": {
+                                "isActivated": true,
+                                "offerPrice": "0.97/unidad"
+                            },
+                            "markAsBought": "true"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
